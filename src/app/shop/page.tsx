@@ -6,9 +6,9 @@ import Hero2 from '../components/shop_components/Hero2'
 const page = () => {
   return (
    <>
-   <Hero/>
-   <Shop_Products/>
-   <Hero2/>
+   <Hero />
+   <Shop_Products />
+   <Hero2 />
    </>
   )
 }
