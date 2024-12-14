@@ -20,16 +20,16 @@ const Header = () => {
         {/* Section 3 - Icons */}
         <ul className="flex justify-center gap-x-10">
           <li>
-            <Image src="/images/icon1.jpg" alt="icon1" width={30} height={30} />
+            <h1 className='h-[30px] w-[30px]'>icon1</h1>
           </li>
           <li>
-            <Image src="/images/icon2.png" alt="icon2" width={30} height={30} />
+            <h1 className='h-[30px] w-[30px]'>icon2</h1>
           </li>
           <li>
-            <Image src="/images/icon3.png" alt="icon3" width={30} height={30} />
+          <h1 className='h-[30px] w-[30px]'>icon3</h1>
           </li>
           <li>
-            <Image src="/images/icon4.png" alt="icon4" width={40} height={40} />
+          <h1 className='h-[30px] w-[30px]'>icon4</h1>
           </li>
         </ul>
       </div>

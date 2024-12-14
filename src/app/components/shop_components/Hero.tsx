@@ -5,13 +5,21 @@ import banner from '../../../../public/images/banner_shop.png'
 const Hero = () => {
     return (
         <>
-            <div className='p-4 md:px-20 py-10 bg-gray-100 min-h-[300px] flex items-center justify-center'>
+            <div className="relative w-screen h-[316px]">
+  {/* Hero Background Image */}
+  <Image
+    src={banner}
+    alt="Shop Background"
+    layout="fill"
+    objectFit="cover"
+    className="absolute top-0 left-0"
+  />
+  {/* Hero Content */}
+  <div className="absolute inset-0 flex flex-col justify-center items-center text-center text-black">
+     &nbsp; &gt; &nbsp;
+  </div>
+</div>
 
-                {/* Banner Container */}
-                <div className='relative w-full h-full max-w-screen-lg min-h-[300px]'>
-                    <Image src={banner}  alt='blog' layout='fill' objectFit='cover' className='rounded-lg' />
-                </div>
-            </div>
         </>
     )
 }

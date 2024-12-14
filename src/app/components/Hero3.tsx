@@ -14,7 +14,7 @@ const Hero3 = () => {
                    
                     <div className="p-2 min-h-[400px] p-2">
                         <Image src={sofa3} width={500} height={500} alt='table' />
-                        <div className=''>
+                        <div>
                             <h2 className='text-2xl'>Trenton modular sofa_3</h2>
                             <p className='py-2 font-bold'>Rs. 25,000.00</p>
                         </div>
@@ -22,7 +22,7 @@ const Hero3 = () => {
                     
                     <div className="p-2 min-h-[400px] p-2">
                         <Image src={sofa4} width={500} height={500} alt='table' />
-                        <div className=''>
+                        <div>
                             <h2 className='text-2xl'>Granite dining table with dining chair</h2>
                             <p className='py-2 font-bold'>Rs. 25,000.00</p>
                         </div>
@@ -31,7 +31,7 @@ const Hero3 = () => {
                     
                     <div className="p-2 min-h-[400px]  p-2">
                         <Image src={sofa_table} width={500} height={500} alt='table' />
-                        <div className=''>
+                        <div>
                             <h2 className='text-2xl '>Outdoor bar table and stool</h2>
                             <p className='py-2 font-bold'>Rs. 25,000.00</p>
                         </div>
@@ -39,7 +39,7 @@ const Hero3 = () => {
                     
                     <div className="p-2 min-h-[400px]  p-2">
                         <Image src={table} width={500} height={500} alt='table' />
-                        <div className=''>
+                        <div>
                             <h2 className='text-2xl '>Plain console with teak mirror</h2>
                             <p className='py-2 font-bold'>Rs. 25,000.00</p>
                         </div>

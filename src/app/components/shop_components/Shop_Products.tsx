@@ -23,9 +23,9 @@ const Shop_Products = () => {
 
                 {/* 01 */}
                 <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={sofa1} className='' alt='table' width={200} height={200} /></div>
+                    <div><Image src={sofa1} alt='table' width={200} height={200} /></div>
                     <div>
-                        <p className=''>Trenton modular sofa_3</p>
+                        <p>Trenton modular sofa_3</p>
                         <p className='font-bold '>Rs. 25,000.00</p>
                     </div>
 
@@ -34,9 +34,10 @@ const Shop_Products = () => {
 
                 {/* 01 */}
                 <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={sofa2} className='' alt='table' width={200} height={200} /></div>
+                    <div><Image src={sofa2} alt='table' width={200} height={200} /></div>
                     <div>
-                        <p className=''>Trenton modular sofa_3</p>
+                        <p>Granite dining table with</p>
+                        <p>dining chair</p>
                         <p className='font-bold '>Rs. 25,000.00</p>
                     </div>
 
@@ -44,9 +45,10 @@ const Shop_Products = () => {
 
                 {/* 01 */}
                 <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={sofa_table} className='' alt='table' width={200} height={200} /></div>
+                    <div><Image src={sofa_table} alt='table' width={200} height={200} /></div>
                     <div>
-                        <p className=''>Trenton modular sofa_3</p>
+                        <p>Outdoor bar table and</p>
+                        <p>stool</p>
                         <p className='font-bold '>Rs. 25,000.00</p>
                     </div>
 
@@ -54,32 +56,10 @@ const Shop_Products = () => {
 
                 {/* 01 */}
                 <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={table} className='' alt='table' width={200} height={200} /></div>
+                    <div><Image src={table} alt='table' width={200} height={200} /></div>
                     <div>
-                        <p className=''>Trenton modular sofa_3</p>
-                        <p className='font-bold '>Rs. 25,000.00</p>
-                    </div>
-
-                </div>
-
-
-                {/* 01 */}
-                <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={S_table5} className='' alt='table' width={200} height={200} /></div>
-                    <div>
-                        <p className=''>Trenton modular sofa_3</p>
-                        <p className='font-bold '>Rs. 25,000.00</p>
-                    </div>
-
-                </div>
-
-
-
-                {/* 01 */}
-                <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={S_table6} className='' alt='table' width={200} height={200} /></div>
-                    <div>
-                        <p className=''>Trenton modular sofa_3</p>
+                        <p>Plain console with teak</p>
+                        <p>mirror</p>
                         <p className='font-bold '>Rs. 25,000.00</p>
                     </div>
 
@@ -88,10 +68,22 @@ const Shop_Products = () => {
 
                 {/* 01 */}
                 <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={S_table7} className='' alt='table' width={200} height={200} /></div>
+                    <div><Image src={S_table1} alt='table' width={200} height={200} /></div>
                     <div>
-                        <p className=''>Trenton modular sofa_3</p>
-                        <p className='font-bold '>Rs. 25,000.00</p>
+                        <p>Grain coffee table</p>
+                        <p className='font-bold '>Rs. 15,000.00</p>
+                    </div>
+
+                </div>
+
+
+
+                {/* 01 */}
+                <div className='min-h-80 p-2 grid  justify-center '>
+                    <div><Image src={S_table2} alt='table' width={200} height={200} /></div>
+                    <div>
+                        <p>Kent coffee table</p>
+                        <p className='font-bold '>Rs. 225,000.00</p>
                     </div>
 
                 </div>
@@ -99,64 +91,33 @@ const Shop_Products = () => {
 
                 {/* 01 */}
                 <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={S_table8} className='' alt='table' width={200} height={200} /></div>
+                    <div><Image src={S_table3} alt='table' width={200} height={200} /></div>
                     <div>
-                        <p className=''>Trenton modular sofa_3</p>
-                        <p className='font-bold '>Rs. 25,000.00</p>
+                        <p>Round coffee table_color</p>
+                        <p>2</p>
+                        <p className='font-bold '>Rs. 251,000.00</p>
                     </div>
 
                 </div>
+
 
                 {/* 01 */}
                 <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={S_table9} className='' alt='table' width={200} height={200} /></div>
+                    <div><Image src={S_table4} alt='table' width={200} height={200} /></div>
                     <div>
-                        <p className=''>Trenton modular sofa_3</p>
-                        <p className='font-bold '>Rs. 25,000.00</p>
+                        <p>Reclaimed teak coffee</p>
+                        <p>table</p>
+                        <p className='font-bold '>Rs. 25,200.00</p>
                     </div>
 
                 </div>
 
-                                {/* 01 */}
               
-
-
-                                {/* 01 */}
-                                <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={S_table10} className='' alt='table' width={200} height={200} /></div>
-                    <div>
-                        <p className=''>Trenton modular sofa_3</p>
-                        <p className='font-bold '>Rs. 25,000.00</p>
-                    </div>
-
-                </div>
-
-
-                                {/* 01 */}
-                                <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={S_table11} className='' alt='table' width={200} height={200} /></div>
-                    <div>
-                        <p className=''>Trenton modular sofa_3</p>
-                        <p className='font-bold '>Rs. 25,000.00</p>
-                    </div>
-
-                </div>
-
-
-                                {/* 01 */}
-                                <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={S_table12} className='' alt='table' width={200} height={200} /></div>
-                    <div>
-                        <p className=''>Trenton modular sofa_3</p>
-                        <p className='font-bold '>Rs. 25,000.00</p>
-                    </div>
-
-                </div>
                 <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={S_table9} className='' alt='table' width={200} height={200} /></div>
+                    <div><Image src={S_table5} alt='table' width={200} height={200} /></div>
                     <div>
-                        <p className=''>Trenton modular sofa_3</p>
-                        <p className='font-bold '>Rs. 25,000.00</p>
+                        <p>Plain console_</p>
+                        <p className='font-bold '>Rs. 258,000.00</p>
                     </div>
 
                 </div>
@@ -164,10 +125,10 @@ const Shop_Products = () => {
 
                                 {/* 01 */}
                                 <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={sofa1} className='' alt='table' width={200} height={200} /></div>
+                    <div><Image src={S_table6} alt='table' width={200} height={200} /></div>
                     <div>
-                        <p className=''>Trenton modular sofa_3</p>
-                        <p className='font-bold '>Rs. 25,000.00</p>
+                        <p>Reclaimed teak Sideboard</p>
+                        <p className='font-bold '>Rs. 20,000.00</p>
                     </div>
 
                 </div>
@@ -175,10 +136,10 @@ const Shop_Products = () => {
 
                                 {/* 01 */}
                                 <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={sofa1} className='' alt='table' width={200} height={200} /></div>
+                    <div><Image src={S_table7} alt='table' width={200} height={200} /></div>
                     <div>
-                        <p className=''>Trenton modular sofa_3</p>
-                        <p className='font-bold '>Rs. 25,000.00</p>
+                        <p>SJP_0825</p>
+                        <p className='font-bold '>Rs. 200,000.00</p>
                     </div>
 
                 </div>
@@ -186,13 +147,54 @@ const Shop_Products = () => {
 
                                 {/* 01 */}
                                 <div className='min-h-80 p-2 grid  justify-center '>
-                    <div><Image src={sofa1} className='' alt='table' width={200} height={200} /></div>
+                    <div><Image src={S_table8} alt='table' width={200} height={200} /></div>
                     <div>
-                        <p className=''>Trenton modular sofa_3</p>
-                        <p className='font-bold '>Rs. 25,000.00</p>
+                        <p>Bella chair and table</p>
+                        <p className='font-bold '>Rs. 100,000.00</p>
                     </div>
 
                 </div>
+
+                <div className='min-h-80 p-2 grid  justify-center '>
+                    <div><Image src={S_table9} alt='table' width={200} height={200} /></div>
+                    <div>
+                        <p>Granite square side table</p>
+                        <p className='font-bold '>Rs. 258,800.00</p>
+                    </div>
+
+                </div>
+                        
+                        <div className='min-h-80 p-2 grid  justify-center '>
+                    <div><Image src={S_table10} alt='table' width={200} height={200} /></div>
+                    <div>
+                        <p>Asgaard sofa</p>
+                        <p className='font-bold '>Rs. 250,000.00</p>
+                    </div>
+
+                </div>
+
+
+                                {/* 01 */}
+                                <div className='min-h-80 p-2 grid  justify-center '>
+                    <div><Image src={S_table11} alt='table' width={200} height={200} /></div>
+                    <div>
+                        <p>Maya sofa three seater</p>
+                        <p className='font-bold '>Rs. 115,000.00</p>
+                    </div>
+
+                </div>
+
+
+                                {/* 01 */}
+                                <div className='min-h-80 p-2 grid  justify-center '>
+                    <div><Image src={S_table12} alt='table' width={200} height={200} /></div>
+                    <div>
+                        <p>Outdoor sofa set</p>
+                        <p className='font-bold '>Rs. 244,000.00</p>
+                    </div>
+
+                </div>
+               
 
 
 
