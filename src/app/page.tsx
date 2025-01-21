@@ -1,26 +1,21 @@
-import React from 'react'
-
-import Hero from './components/Hero'
-import Hero2 from './components/Hero2'
-import  Hero3  from './components/Hero3'
-import Hero4 from './components/Hero4'
-import Hero5 from './components/Hero5'
-import Hero6 from './components/Hero6'
-
-
-const page = () => {
+import HeroSection from "@/components/HeroSection";
+import HeroTwo from "@/components/Herotwo";
+import ShortSec from "@/components/ShortSec";
+import NewArrivals from "@/components/NewArrivals";
+import BlogSection from "@/components/BlogSection"
+import Instasec from "@/components/Instasec"
+export default function Home() {
   return (
-    <>
-
-   <Hero/>
-   <Hero2/>
-   <Hero3/>
-   <Hero4/>
-   <Hero5/>
-   <Hero6/>
-
-    </>
-  )
+    <div>
+      <HeroSection />
+      <HeroTwo />
+      <ShortSec
+        title="Top Picks For You"
+        description="find a bright ideal to suit your taste with our great selection of suspension, floor and table lights"
+      />
+      <NewArrivals/>
+      <BlogSection/>
+      <Instasec/>
+    </div>
+  );
 }
-
-export default page
